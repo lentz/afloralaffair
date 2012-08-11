@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Portfolio</title>
+    <link>http://www.afloralaffairkc.com/A_Floral_Affair_-_Kansas_City/Portfolio/Portfolio.html</link>
+    <description>Portfolio</description>
+    <item>
+      <title>Red</title>
+      <link>http://www.afloralaffairkc.com/A_Floral_Affair_-_Kansas_City/Portfolio/Pages/Red.html</link>
+      <guid isPermaLink="false">7cddd94e-7109-4920-b37b-a49c3cf592c3</guid>
+    </item>
+    <item>
+      <title>Pink</title>
+      <link>http://www.afloralaffairkc.com/A_Floral_Affair_-_Kansas_City/Portfolio/Pages/Pink.html</link>
+      <guid isPermaLink="false">4017f489-297f-460d-a61f-1ee7d5483753</guid>
+    </item>
+    <item>
+      <title>Orange</title>
+      <link>http://www.afloralaffairkc.com/A_Floral_Affair_-_Kansas_City/Portfolio/Pages/Orange.html</link>
+      <guid isPermaLink="false">5fb2c0e1-6cb6-43c2-be4c-a4ab0b20d0fb</guid>
+    </item>
+    <item>
+      <title>Yellow</title>
+      <link>http://www.afloralaffairkc.com/A_Floral_Affair_-_Kansas_City/Portfolio/Pages/Yellow.html</link>
+      <guid isPermaLink="false">65c4ca50-374f-406e-a6de-aedc3c6ff12e</guid>
+    </item>
+    <item>
+      <title>Green</title>
+      <link>http://www.afloralaffairkc.com/A_Floral_Affair_-_Kansas_City/Portfolio/Pages/Green.html</link>
+      <guid isPermaLink="false">631f440e-1519-4d63-af01-0703fe6c57ea</guid>
+    </item>
+    <item>
+      <title>Blue</title>
+      <link>http://www.afloralaffairkc.com/A_Floral_Affair_-_Kansas_City/Portfolio/Pages/Blue.html</link>
+      <guid isPermaLink="false">2fa98a49-f4d4-4d00-afb2-b626e83bd2a2</guid>
+    </item>
+    <item>
+      <title>Purple</title>
+      <link>http://www.afloralaffairkc.com/A_Floral_Affair_-_Kansas_City/Portfolio/Pages/Purple.html</link>
+      <guid isPermaLink="false">311516f9-020b-4179-ba9f-097160071e92</guid>
+    </item>
+    <item>
+      <title>White</title>
+      <link>http://www.afloralaffairkc.com/A_Floral_Affair_-_Kansas_City/Portfolio/Pages/White.html</link>
+      <guid isPermaLink="false">57fbb278-ad31-48ff-8d87-c0799b9b306b</guid>
+    </item>
+    <item>
+      <title>Combination</title>
+      <link>http://www.afloralaffairkc.com/A_Floral_Affair_-_Kansas_City/Portfolio/Pages/Combination.html</link>
+      <guid isPermaLink="false">d1503efc-497a-4b54-ae3d-a5222dbfa435</guid>
+    </item>
+  </channel>
+</rss>
